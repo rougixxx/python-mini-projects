@@ -96,7 +96,7 @@ def analyzer(pkt):
     time.sleep(1)
 
 print("*************** STARTED the Operation*****************")
-sniff(iface="enp0s31f6", prn=analyzer)
-# sniff(iface="wlp4s0", prn=analyzer)
+# sniff(iface="enp0s31f6", prn=analyzer)
+sniff(iface="wlp4s0", prn=analyzer)
 
 

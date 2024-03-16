@@ -1,5 +1,5 @@
 from scapy.all import ARP, Ether, srp
-# theseare methods from the module  'scapy.all' of the scapy  library
+# these are methods from the module  'scapy.all' of the scapy  library
 
 
 # scan and netwok and give u details about ur network
